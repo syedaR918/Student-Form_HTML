@@ -1,4 +1,4 @@
-✅ README.md (Copy–Paste into GitHub)
+✅ README.md
 Student Roll No & Email Form
 
 A beginner-friendly HTML + JavaScript project that lets users manage a list of students. You can add, edit, and delete entries, and all updates appear instantly in a dynamic table.
